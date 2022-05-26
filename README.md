@@ -1,6 +1,6 @@
 - 👋😃 Hi, I’m @I-May
 
-- 📚 I'm currently a 2nd year studying Computer Science
+- 📚 I'm currently a 2nd year university student studying Computer Science
 
 <!---
 I-May-Public/I-May-Public is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
